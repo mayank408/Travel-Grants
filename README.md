@@ -2,10 +2,6 @@
 # Travel Grant for Conferences
 
 
-
-# Travel Grant for Conferences
-
-
 | S. No. | Name                                     | Grant upto        |
 |------|---------------------------------------|----------------------------|
 | 1 | [Microsoft Research India Travel Grants](https://msrprograms.cloudapp.net/User/Login?ReturnUrl=%2FTravelGrants%2F) | 2,500 USD |
