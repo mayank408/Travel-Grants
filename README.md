@@ -12,5 +12,5 @@
 | 6|[AICTE-INAE Travel Grant Scheme](https://www.inae.in/aicte-inae-travel-grant-scheme/) | 50,000 INR|
 | 7|[SIGWEB Student Travel Grant](https://www.sigweb.org/community/student-travel-grant) | 750 USD
 | 8|[Intel Student Ambassador Program Travel Sponsorship](https://devmesh.intel.com/member-programs/intel-student-ambassador-program) | - |
-| 9| [UGC Travel Grant Scheme](http://164.100.228.160/funding-opportunities/grants-for-conference-seminars/ugc-travel-grant-scheme) | 1,00,000 |
+| 9| [UGC Travel Grant Scheme](http://164.100.228.160/funding-opportunities/grants-for-conference-seminars/ugc-travel-grant-scheme) | 1,00,000 INR|
 
